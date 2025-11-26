@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humanityRest0red)](https://github.com/anuraghazra/github-readme-stats)
  
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=chernyj_memchik)](https://github.com/KnlnKS/leetcode-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humanityRest0red&theme=solarized_dark)
