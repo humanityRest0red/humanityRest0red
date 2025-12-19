@@ -35,9 +35,10 @@ Here are some ideas to get you started:
     <h1><b>⚙ Language & DevTools</b></h1>
     <h2><b>🤖 Main (Most used):</b></h2>
     <!-- <a href="https://github.com/Hasuk1/Kotlin_bootcamp/tree/main"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"width="40" height="40"/></a>&nbsp;  -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg"width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg"width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40"/>&nbsp;
     <!-- <a href="https://github.com/Hasuk1/School-21-DevOps_branch"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"width="40" height="40"/></a>&nbsp;  -->
     <!-- <a href="https://github.com/Hasuk1/School-21-SQL_branch"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"width="40" height="40"/></a>&nbsp;  -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"width="40" height="40"/>&nbsp;<br>
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"width="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg"width="40" height="40"/>&nbsp;<br>
     <h2><b>👻 Additional (Rarely use):</b></h2>
