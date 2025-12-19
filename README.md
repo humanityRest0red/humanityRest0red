@@ -47,11 +47,13 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"width="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg"width="40" height="40"/>&nbsp;<br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg"width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"width="40" height="40"/>&nbsp;<br>
     <h2><b>👻 Additional (Rarely use):</b></h2>
      <!-- <a href="https://github.com/Hasuk1/School-21-DevOps_branch"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"width="40" height="40"/></a>&nbsp;  -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"width="40" height="40"/>&nbsp;
 </div>
 
 <!--
